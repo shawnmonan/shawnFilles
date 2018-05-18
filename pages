@@ -1,0 +1,106 @@
+page 1: 
+<html>
+  <head>
+  <title>My Website</title>
+    <link rel="stylesheet" href="MyCSS.css" type="text/css">
+  </head>
+  <body>
+    <h1>Welcome to my website</h1>
+   Thsi took me alot of time so ya thanks.
+    <p>This is a new paragraph for example.
+    <h2>here is another section...<h2>
+      <a href="hola.jpg">
+    <img src="hola.jpg" width=75 height=50 </img>
+      </a>
+    <hr>
+      <a href="schedule.html">My Schedule</a>
+      <a href="MyTestWeb.html">Second page</a>
+  </body>
+</html>
+page 2: 
+<html>
+ <link rel="stylesheet" href="MyCSS.css" type="text/css">
+ 
+ <table width='100%' border=1px cellspacing=0>
+ <caption>My Schedule</caption>
+ <tr>
+     <th>Time</th>
+     <th colspan=2>Room</th>
+   <th>Class</th>
+ </tr>
+ <tr>
+     <td rowspan=2>7:20-8:10</td>
+     <td rowspan=2>SE125<td rowspan=2>Johnson</td>
+     <td>Period 1</td>
+ </tr>
+ <tr>
+     <td>Spanish 2</td>
+ </tr>
+ <tr>
+     <td rowspan=2>8;15-9:05</td>
+     <td rowspan=2>SE209<td rowspan=2>Bonifaci</td>
+     <td>Period 2</td>
+ </tr>
+ <tr>
+     <td>Biology</td>
+ </tr>
+ <tr>
+     <td>9:10-9:35</td>
+     <td>SE105<td>Johnson</td>
+     <td>Advisory</td>
+ </tr>
+ <tr>
+     <td rowspan=2>9:40-10:30</td>
+     <td rowspan=2>NE132<td rowspan=2>Beethe</td>
+     <td>Period 3</td>
+ </tr>
+ <tr>
+     <td>Health</td>
+ </tr>
+ <tr>
+   <td rowspan=2>10:35-11:25</td>
+   <td rowspan=2>SE205<td rowspan=2>Chinn</td>
+   <td>Period 4</td>
+ </tr>
+ <tr>
+     <td>Algebra 1</td>
+ </tr>
+ <tr>
+   <td>11:30-12</td>
+   <td>Agora<td>Golden</td>
+   <td>Lunch</td>
+ </tr>
+ <tr>
+   <td rowspan=2>12:05-12:55</td>
+   <td rowspan=2>SE224<td rowspan=2>Chan</td>
+   <td>Period 5</td>
+ </tr>
+ <tr>
+     <td>Computer Science<td>
+ </tr>
+ <tr>
+   <td rowspan=2>1-1:50</td>
+   <td rowspan=2>NW127<td rowspan=2>Moliter</td>
+   <td>Period 6</td>
+ </tr>
+ <tr>
+     <td>English</td>
+ </tr>
+ </table>
+ 
+ <a href="index.html">Return To Homepage</a>
+ <a href="MyTestWeb.html">Second page</a>
+ </html>
+page 3: aka the worst page
+<html>
+  <head>
+    <title>My Website</title>
+      <link rel="stylesheet" href="MyTestWeb.css" type="text/css">
+  </head>
+  <body>
+    <h1>Welcome to my website!</h1>
+      <a href="lol.jpg">
+    <img src="lol.jpg" width=125 height=80 </img>
+      </a>
+    <h2>This is my dream car.</h2>
+    <h3>Here are my five favorite types of cars</h3>
